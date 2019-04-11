@@ -3,17 +3,19 @@ RESOURCES += \
 
 QT += core gui
 
+INCLUDEPATH += $$PWD
+
 HEADERS += \
-  framelesswindow.h
+  $$PWD/framelesswindow.h
 
 win32{
-	SOURCES += \
-		framelesswindow.cpp
+  SOURCES += \
+    $$PWD/framelesswindow.cpp
 }
 
 macx{
   OBJECTIVE_SOURCES += \
-	framelesswindow.mm
+    $$PWD/framelesswindow.mm
 }
 
 macx{
