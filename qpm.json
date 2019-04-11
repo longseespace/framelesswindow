@@ -1,0 +1,19 @@
+{
+  "name": "co.podzim.framelesswindow",
+  "description": "Unofficial `Qt-Nice-Frameless-Window` package",
+  "author": {
+    "name": "Long Nguyen",
+    "email": "long@podzim.co"
+  },
+  "repository": {
+    "type": "GIT",
+    "url": "git@github.com:longseespace/framelesswindow.git"
+  },
+  "version": {
+    "label": "0.0.1"
+  },
+  "dependencies": [
+  ],
+  "license": "MIT",
+  "priFilename": "framelesswindow.pri"
+}

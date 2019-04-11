@@ -1,0 +1,6 @@
+
+<RCC>
+    <qresource prefix="/co/podzim/framelesswindow">
+        <file>qmldir</file>
+    </qresource>
+</RCC>
